@@ -21,9 +21,9 @@ const About = () => {
         <p className="text-white text-5xl font-bold">Full Stack Developer ?</p>
         </div>
         <p className="text-neutral-400 text-xl font-light tracking-wide leading-relaxed">
-          I’m <span className="font-semibold text-white">Ashok Atragadda</span>, a.k.a. Cygnuxxs, an enthusiastic person who
+          I'm <span className="font-semibold text-white">Ashok Atragadda</span>, a.k.a. Cygnuxxs, an enthusiastic person who
           writes code for fun and a Full Stack Developer.<br /> With a strong
-          foundation in both frontend and backend development, I excel at <span className="font-semibold text-white">turning ideas into reality</span>, whether it’s crafting intuitive user
+          foundation in both frontend and backend development, I excel at <span className="font-semibold text-white">turning ideas into reality</span>, whether it's crafting intuitive user
           interfaces or designing efficient server-side logic.
         </p>
       </div>
