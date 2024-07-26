@@ -28,7 +28,7 @@ const ContactMe = () => {
     <div id="contact" className="w-full py-[8rem] flex-col mt-12 bg-neutral-100 flex justify-center items-center">
       <p className="text-xl font-medium text-neutral-400">Contact Me</p>
       <p className="text-3xl font-semibold my-4">
-        I'm Up and Running, Let's Chat!
+        I&apos;m Up and Running, Let&apos;s Chat!
       </p>
       <div className="flex gap-4 py-12">
         {contacts.map((contact, idx) => (

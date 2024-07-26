@@ -31,7 +31,7 @@ const FirstHero = () => {
             size={"lg"}
           >
             <Link href={"#contact"}>
-              Let's Work Together
+              Let&apos;s Work Together
             </Link>
           </Button>
         </div>
